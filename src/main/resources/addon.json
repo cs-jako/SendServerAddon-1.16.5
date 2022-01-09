@@ -1,6 +1,9 @@
 {
-  "name": "Example Addon",
   "uuid": "%uuid%",
-  "mainClass": "com.example.addon.ExampleAddon",
-  "transformerClass": "com.example.addon.ExampleAddonTransformer"
+  "name": "SendServerAddon",
+  "mainClass": "net.crazy.sendserveraddon.SendServerAddon",
+  "version": 1,
+  "author": "CrazySchnetzler1",
+  "category": 2,
+  "icon": "https://crazyschnetzler1.github.io/images/addons/SendServerAddon.png"
 }
